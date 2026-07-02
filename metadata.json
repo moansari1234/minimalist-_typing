@@ -1,0 +1,8 @@
+{
+  "name": "Minimalist Typing Local",
+  "description": "A minimalist, distraction-free typing practice application with real-time speed tracking, customized lesson modules, next word reveal and word flash modes, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
